@@ -108,3 +108,22 @@ i{
     grid-column-start: 5;
     grid-column-end: 6;
 }
+
+
+footer{
+    margin-top: auto;
+    background:url('../images/marmor.jpg') ;
+    background-position: center;
+    background-repeat: 0;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+ }
+ 
+ footer section{
+     padding: 10px 60px;
+ }
+ 
+ .milano-footer-time {
+     margin-right: 70px;
+ }
